@@ -78,7 +78,7 @@ export default function Layout() {
             </NavLink>
             <NavLink to="/base-dados" className={link}>
             <span className="w-1 h-4 rounded-full bg-current opacity-40 flex-shrink-0"></span>
-            Base de Dados BI
+            Cidadãos Cadastrados
            </NavLink>
            <NavLink to="/presencial" className={link}>
             <span className="w-1 h-3 rounded-full bg-current opacity-50 flex-shrink-0"></span>
